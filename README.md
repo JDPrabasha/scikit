@@ -1,7 +1,7 @@
 # Scikit-learn Projects
  Welcome!\
  \
-This is where I store all of the datasets and notebooks I use to practice with scikit-learn, a free software machine learning library for Python. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy (to quote Wikipedia)
+This is where I store all of the datasets and notebooks I use to practice with scikit-learn, a free software machine learning library for Python. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy (to quote Wikipedia).
 \
 \
 All datasets are ones I've found after looking through the internet for specific datasets that would help me practice with a specific algorithm/set of algorithms, as well as gain experience with pandas, a data manipulation and analysis library for Python.
