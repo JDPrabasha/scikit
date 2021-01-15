@@ -12,3 +12,5 @@ You are completely free to use the datasets as you please, as well as go through
 [Salary Predictor](https://github.com/JDPrabasha/scikit/blob/main/SalaryPredictor.ipynb)
 \
 [Heart Disease Predictor](https://github.com/JDPrabasha/scikit/blob/main/HeartDisease.ipynb)
+\
+[Housing Price Predictor](https://github.com/JDPrabasha/scikit/blob/main/HousingPricePredictor.ipynb)
